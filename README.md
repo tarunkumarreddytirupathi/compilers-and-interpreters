@@ -2,4 +2,4 @@
 
 Windows
   
-  C compiler  - https://www.msys2.org/
+ C compiler  - https://www.msys2.org/
