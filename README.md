@@ -1,3 +1,4 @@
 # compilers-and-interpreters
 
-C compiler (msys2) - https://www.msys2.org/
+Windows
+  C compiler  - https://www.msys2.org/
